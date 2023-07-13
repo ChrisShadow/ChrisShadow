@@ -1,7 +1,5 @@
 ### Hey there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on something in progress, I'd say it
 - 🌱 I’m currently learning backend dev with php and python as well as frontend dev with react
 - 👯 I’m looking to collaborate on this fascinating tech community
