@@ -11,6 +11,4 @@
 
 [![Alt text](https://img.youtube.com/vi/mYahP-HjuxQ/0.jpg)](https://www.youtube.com/watch?v=mYahP-HjuxQ)
 
-### https://www.youtube.com/shorts/mYahP-HjuxQ
-### https://youtube.com/shorts/mYahP-HjuxQ?si=Ig-jv4Jf5PPTxMPv
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChrisShadow&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
