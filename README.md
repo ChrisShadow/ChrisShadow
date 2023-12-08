@@ -24,4 +24,4 @@
 
 [![Alt text](https://img.youtube.com/vi/mYahP-HjuxQ/0.jpg)](https://www.youtube.com/watch?v=mYahP-HjuxQ)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Chris&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChrisShadow&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
